@@ -3,10 +3,10 @@ const fs = require("fs");
 // const { resolve } = require("path");
 // const { rejects } = require("assert");
 // const { isAbsolute } = require("path");
+/* 
+let readFile = new Promise((resolve, reject) => {
 
-let promise = new Promise((resolve, reject) => {
-  
-});
+}); */
 // document.querySelector('link[rel="shortcut icon"]').href =
 //   "./icons/favicon.ico";
 
